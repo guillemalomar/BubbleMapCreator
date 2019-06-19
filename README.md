@@ -65,7 +65,7 @@ Where **location** is the primary key.
 
 - I recommend creating a virtualenv for this project. After creating it, you should run the following command:
 ```
-~/RedditCrawler$ pip install -r requirements.frozen
+~/BubbleMapCreator$ pip install -r requirements.frozen
 ```
 
 To use Basemap is a little more complex than other python libraries.
@@ -79,7 +79,7 @@ The parameters of the images that will be generated can be modified from the fil
 
 This is done by typing the following command:
 ```
-~/RedditCrawler$ python3 bubble.py
+~/BubbleMapCreator$ python3 bubble.py
 ```
 
 ### Additional Parameters
